@@ -1,6 +1,11 @@
 # ISIA_2425_F
-Design and implementation of a decentralized multi-agent system using SPADE to simulate and manage a digital version of the "PowerGrid" board game. The system will model interactions among players (agents) who manage power plants, resources, and cities to supply electricity efficiently and competitively.
-This is our work for the Introduction to Intelligent and Autonomous Systems.
+Objetive:
+
+Design and implement a decentralized multi-agent system using SPADE or JADE to simulate and optimize the coordination of relief efforts in response to a natural disaster. The system involves various agents representing emergency responders, supply vehicles, shelters, and affected civilians, all working together to ensure effective resource allocation and assistance delivery.
+
+Problem Scenario:
+
+In the aftermath of a natural disaster (e.g., earthquake, hurricane, or flood), relief efforts must be organized efficiently to ensure that affected areas receive food, medical supplies, rescue services, and shelter. Traditional centralized disaster management systems often struggle to cope with real-time challenges such as rapidly changing conditions, road blockages, and communication breakdowns. A decentralized system with autonomous agents representing different entities can respond more flexibly and efficiently to changing conditions and resource constraints.
 
 Members:
 
